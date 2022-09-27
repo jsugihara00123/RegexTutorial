@@ -2,7 +2,7 @@
 
 Regex, or Regular Expression Syntax, is a useful tool for any web developer. Regular Expressions define a search pattern and are very useful for form input validation, web scraping, and filtering information. Regex may appear intimidating initially, but they can be broken down into smaller components so they can be more easily understood.
 
-Link to Github Gist [here]()
+Link to Github Gist [here](https://gist.github.com/jsugihara00123/aecb0d7bc99e990de78806e4877b48d9)
 
 ## Summary
 
